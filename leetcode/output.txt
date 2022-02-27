@@ -1,0 +1,51 @@
+ insert-mobile 0 0
+ insert-mobile 1 0
+ insert-mobile 2 0
+ insert-mobile 3 0
+ insert-mobile 4 0
+ insert-mobile 5 0
+ insert-mouse 0 1
+ insert-mouse 1 1
+ insert-mouse 2 1
+ insert-mouse 3 1
+ insert-mouse 4 1
+ insert-moneypot 0 2
+ insert-moneypot 1 2
+ insert-moneypot 2 2
+ insert-moneypot 3 2
+ insert-moneypot 4 2
+ insert-moneypot 5 2
+ insert-moneypot 6 2
+ insert-moneypot 7 2
+ insert-monitor 0 3
+ insert-monitor 1 3
+ insert-monitor 2 3
+ insert-monitor 3 3
+ insert-monitor 4 3
+ insert-monitor 5 3
+ insert-monitor 6 3
+ insert-mousepad 0 4
+ insert-mousepad 1 4
+ insert-mousepad 2 4
+ insert-mousepad 3 4
+ insert-mousepad 4 4
+ insert-mousepad 5 4
+ insert-mousepad 6 4
+ insert-mousepad 7 4
+ search-mobile 0
+ product size-5->mobile 
+1->109
+ search-mobile 5
+ product size-1->mobile 
+2
+ product size-5->mobile 
+ search-mobile 1
+ product size-1->mobile 
+2
+ product size-1->mobile 
+,mousepad
+,mousepad
+,mousepad
+mousepad -> 
+mousepad -> 
+mousepad -> 
