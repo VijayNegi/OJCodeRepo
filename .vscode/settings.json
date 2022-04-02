@@ -64,6 +64,9 @@
         "__tree": "cpp",
         "deque": "cpp",
         "stack": "cpp",
-        "list": "cpp"
+        "list": "cpp",
+        "bit": "cpp",
+        "set": "cpp",
+        "queue": "cpp"
     }
 }
